@@ -68,3 +68,46 @@ body {
   color: #666;
   margin-bottom: 1rem;
 }
+.about-vera {
+  padding: 4rem 2rem;
+  background: #f7f1e3;
+  color: #2c2c54;
+  font-family: 'Georgia', serif;
+  text-align: center;
+}
+
+.about-vera h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #706fd3;
+}
+
+.about-vera p {
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.6;
+}
+
+.about-cta {
+  margin-top: 2rem;
+}
+
+.about-cta .button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  margin: 0 0.5rem;
+  border: none;
+  border-radius: 2rem;
+  background: #706fd3;
+  color: white;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.about-cta .button:hover {
+  background: #474787;
+}
+
+.button-secondary {
+  background: #b33939;
+}
